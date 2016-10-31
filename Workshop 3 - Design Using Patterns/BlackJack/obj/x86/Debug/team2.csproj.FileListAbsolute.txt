@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\Course\1DV607\workshop3\team2\1dv607-OOP-master\Workshop 3 - Design Using Patterns\BlackJack\bin\Debug\ConsoleApplication.exe
+\\Mac\Home\Desktop\Course\1DV607\workshop3\team2\1dv607-OOP-master\Workshop 3 - Design Using Patterns\BlackJack\bin\Debug\ConsoleApplication.pdb
+\\Mac\Home\Desktop\Course\1DV607\workshop3\team2\1dv607-OOP-master\Workshop 3 - Design Using Patterns\BlackJack\obj\x86\Debug\ConsoleApplication.exe
+\\Mac\Home\Desktop\Course\1DV607\workshop3\team2\1dv607-OOP-master\Workshop 3 - Design Using Patterns\BlackJack\obj\x86\Debug\ConsoleApplication.pdb
