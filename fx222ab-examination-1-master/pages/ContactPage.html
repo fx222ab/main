@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../css/mystyle.css"/>
+
+    <meta content="Contact" property="og:title" />
+    <meta content="https://1dv525.github.io/wy222ad-examination-1/pages/ContactPage.html"
+          property="og:url"/>
+    <meta content="article" property="og:type"/>
+    <meta content="http://i.imgur.com/q1zsdJd.jpg" property="og:image"/>
+
+</head>
+<body>
+    <header class="pHeader">This is the contact page</header>
+    <nav>
+        <ul class="nav">
+            <li ><a href="../index.html">HomePage</a> </li>
+            <li><a href="aboutPage.html">About MuZiChaBu</a> </li>
+            <li><a href="BlogPage.html">Tales of MuZiChaBu</a></li>
+            <li class="active"><a href="">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <form id="contact_form" action="#" method="POST" >
+            <fieldset>
+                <legend>Ask your question</legend>
+                Type:<select>
+                        <option value="question">Question</option>
+                        <option value="complain">Complain</option>
+                    </select>
+                <br/>
+                Name:<input type="text" name="name"><br/>
+                Question:<textarea id="message" class="input" name="message"
+                                   rows="4" cols="35" style="margin:
+                                    0px; width: 227px; height: 105px;"></textarea>
+            </fieldset>
+            <fieldset>
+                <legend>How should i contact you?</legend>
+                Telephone:<input type="checkbox" name="contactMethod1" value="Telephone"><br/>
+                E-mail:<input type="checkbox" name="contactMethod2" value="E-mail"><br/>
+            </fieldset>
+            <input type="submit" value="send">
+        </form>
+    </main>
+</body>
+</html>
